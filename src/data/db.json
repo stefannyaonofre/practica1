@@ -1,0 +1,34 @@
+{
+    "movimientos":[
+        {
+            "id": 1,
+            "description": "Compra del mercado",
+            "price": 300000,
+            "type": "gasto"
+        },
+        {
+            "id": 2,
+            "description": "Pago de honorarios",
+            "price": 1500000,
+            "type": "ingreso"
+        },
+        {
+            "id": 3,
+            "description": "Compra pañales",
+            "price": 150000,
+            "type": "gasto"
+        },
+        {
+            "id": 4,
+            "description": "Compra comida mascota",
+            "price": 100000,
+            "type": "gasto"
+        },
+        {
+            "id": 5,
+            "description": "Pago servicios",
+            "price": 250000,
+            "type": "gasto"
+        }
+    ]
+}
